@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Van Tuan Vuong</h1>
 <div id="header" align="center">
-  <p>i'm dev</p>
+  <p>imdev</p>
 </div>
 </p>
 
